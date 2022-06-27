@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @HassaanJavid
+- 👀 I’m interested in learning how to code efficiently, start data-science related work.
+- 🌱 I’m currently learning basics of C++ and memory
